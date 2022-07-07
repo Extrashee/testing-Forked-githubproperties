@@ -7,6 +7,47 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot_20220707-150620_ShapeShift_Launcher](https://user-images.githubusercontent.com/24590667/177796770-fafb6e70-7ced-4e62-afb3-7f641f37b9a9.png)
+
+
+
+
+
+
+
+
+
+
+![Screenshot_20220707-150440_ShapeShift_Launcher](https://user-images.githubusercontent.com/24590667/177796827-f446a3db-4ae7-4bad-908c-73373fce7be1.png)
+
+
+
+
+
+
+
+
+
+
+
 #### This is the view on Desktop devices 
 
 ![Desktop view](https://user-images.githubusercontent.com/24590667/177794048-e5cb2195-8fad-469f-a953-e4964323dc9f.PNG)
@@ -22,8 +63,9 @@
 </br>
 
 #### This is the view on Mobile devices
-![Mobile View](https://user-images.githubusercontent.com/24590667/166200552-38bb42da-bbd2-46b9-b70d-ff93c8c47e3c.png)
+![Mobile View](https://user-images.githubusercontent.com/24590667/177796827-f446a3db-4ae7-4bad-908c-73373fce7be1.png)
+![Mobile View](https://user-images.githubusercontent.com/24590667/177796770-fafb6e70-7ced-4e62-afb3-7f641f37b9a9.png)
 
-> Explore more at  [todorec.netlify.app](https://todorec.netlify.app)
+> Explore more at  [mistyfitness.netlify.app](https://mistyfitness.netlify.app)
 
 ### Thank you
