@@ -3,7 +3,7 @@
 
 > Hosted on netlify at [mistyfitness.netlify.app](https://todorec.netlify.app)
  
-## The different responsive views can be seen below
+## The different responsive views can be seen below:
 
 
 
